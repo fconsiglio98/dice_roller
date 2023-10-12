@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="textview">TextView</string>
+    <string name="rolls">Rolls..</string>
+    <string name="sides">sides</string>
+    <string name="n_sides">n. sides</string>
+    <string name="n_rolls">n. rolls</string>
+    <string name="roll">ROLL</string>
+</resources>
